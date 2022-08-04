@@ -16,4 +16,4 @@ Feature on Development
 - Future Market
 - Multi Market
 - Reporting
-- Optimiization
+- Optimization

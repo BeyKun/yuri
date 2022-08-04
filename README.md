@@ -1,4 +1,4 @@
-#Yuri Crypto Trading Bot
+Yuri Crypto Trading Bot
 
 Yuri is a bot for trading Crypto based on Python
 the goals of this bot is to make money when we'r sleep and do another things
